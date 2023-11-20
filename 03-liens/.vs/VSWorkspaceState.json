@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\dossier1"
+    "\\dossier1",
+    "\\dossier2",
+    "\\images"
   ],
-  "SelectedNode": "\\fichier.html",
+  "SelectedNode": "\\dossier1\\fichier2.html",
   "PreviewInSolutionExplorer": false
 }
